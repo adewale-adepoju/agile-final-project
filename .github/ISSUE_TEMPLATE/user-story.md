@@ -90,21 +90,6 @@ assignees: 'walebase@yahoo.com'
  Then product should no longer be available in the catalog
  ```
 
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 name: 'Need the ability to Like a product in the catalog.'
 about: 'To track progess of issues during sprint'
 title: 'create a product in the catalog'
@@ -194,6 +179,22 @@ assignees: 'walebase@yahoo.com'
  When I use this functionality to delete a product
  Then product should no longer be available in the catalog
  ```
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Must be hosted in the cloud.
