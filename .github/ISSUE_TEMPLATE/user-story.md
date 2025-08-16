@@ -7,6 +7,17 @@ assignees: ''
 
 ---
 
+
+
+
+---
+name: Need the ability to create a product in the catalog.
+about: To track progess of issues during sprint
+title: 'create a product in the catalog'
+labels: 'Backlog'
+assignees: 'walebase@yahoo.com'
+
+---
 Need the ability to create a product in the catalog.
 
 Need the ability to retrieve a product from the catalog.
