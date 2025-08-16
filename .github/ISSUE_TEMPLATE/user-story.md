@@ -13,6 +13,21 @@ title: 'create a product in the catalog'
 labels: 'Backlog'
 assignees: 'walebase@yahoo.com'
 
+
+**As a** System User  
+ **I need** Product Add Function  
+ **So that** I can add (new) products to the catalog  
+   
+ ### Details and Assumptions
+ * The app contains a catalog that products have to be added to that customers will see
+   
+ ### Acceptance Criteria  
+   
+ ```gherkin
+ Given that we hae new products to add
+ When I use this functionality to add 1 product
+ Then product and product count should increase by 1
+ ```
 ---
 Need the ability to create a product in the catalog.
 
