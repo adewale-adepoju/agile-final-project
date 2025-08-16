@@ -183,20 +183,6 @@ assignees: 'walebase@yahoo.com'
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Must be hosted in the cloud.
 
 Must have automation to deploy new changes to the cloud.
