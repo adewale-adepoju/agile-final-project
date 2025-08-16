@@ -21,7 +21,7 @@ assignees: 'walebase@yahoo.com'
  When I use this functionality to add 1 product
  Then product and product count should increase by 1
  ```
----
+
 
 name: 'Need the ability to retrieve a product from the catalog.'
 about: 'To track progess of issues during sprint'
