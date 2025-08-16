@@ -23,8 +23,6 @@ assignees: 'walebase@yahoo.com'
  ```
 ---
 
----
-
 name: 'Need the ability to retrieve a product from the catalog.'
 about: 'To track progess of issues during sprint'
 title: 'retrieve a product in the catalog'
